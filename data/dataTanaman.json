@@ -124,4 +124,15 @@
     "manfaat": "tes",
     "kandunganKimia": "Rimpang mengandung zat warna kuning kurkumin (diarilheptanoid). Komponen minyak atsiri dari rimpangnya terdiri dari turunan Guaian (kurkumol, kurkumenol, Isokurkumenol, Prokurkumenol, Kurkurnadiol), turunan Germakran (Kurdion, Dehidrokurdion); seskuiterpena furanoid dengan kerangka eudesman (Kurkolon). Kerangka Germakran (Furanodienon, Isofuranodienon, Zederon, Furanodien, Furanogermenon); kerangka Eleman (Kurserenon identik dengan edoaron, Epikurserenon, Isofurano germakren); Asam-4-metoksi sinamat (bersifat fungistatik). Dari hasil penelitian lain ditemukan kurkumanolid A, kurleumanolid B, dan kurkumenon."
   }
+  {
+    "id": 12,
+    "nama": "Dlingo",
+    "jenis": "Tanaman Obat",
+    "namaLatin": "Curcuma zedoaria",
+    "slug": "dlingo",
+    "gambarUrl": "https://raw.githubusercontent.com/raisasalsabily/desa-sehat-data/main/assets/images/kunyit_putih.jpeg",
+    "deskripsi": "Kunyit putih atau temu putih adalah salah satu spesies dari famili Zingiberaceae yang telah dikomersilkan penggunaan rhizomanya sebagai tanaman obat dan empon-empon. Temu putih disebut pula sebagai temu kuning.Produk alaminya banyak digunakan dalam industri parfum, pewarna untuk industri pangan, dan sebagai obat atau campuran obat. Khasiatnya bermacam-macam, tetapi biasanya terkait dengan pencernaan.",
+    "manfaat": "tes",
+    "kandunganKimia": "Rimpang mengandung zat warna kuning kurkumin (diarilheptanoid). Komponen minyak atsiri dari rimpangnya terdiri dari turunan Guaian (kurkumol, kurkumenol, Isokurkumenol, Prokurkumenol, Kurkurnadiol), turunan Germakran (Kurdion, Dehidrokurdion); seskuiterpena furanoid dengan kerangka eudesman (Kurkolon). Kerangka Germakran (Furanodienon, Isofuranodienon, Zederon, Furanodien, Furanogermenon); kerangka Eleman (Kurserenon identik dengan edoaron, Epikurserenon, Isofurano germakren); Asam-4-metoksi sinamat (bersifat fungistatik). Dari hasil penelitian lain ditemukan kurkumanolid A, kurleumanolid B, dan kurkumenon."
+  }
 ]
