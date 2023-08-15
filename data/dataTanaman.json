@@ -7,7 +7,7 @@
     "slug": "kunyit",
     "gambarUrl": "https://raw.githubusercontent.com/raisasalsabily/desa-sehat-data/main/assets/images/kunyit.png",
     "deskripsi": "Kunyit merupakan tanaman obat berupa semak dan bersifat tahunan (perenial) yang tersebar di seluruh daerah tropis. Tanaman kunyit tumbuh subur dan liar disekitar hutan/bekas kebun. Tanaman obat kunyit ini bisa memiliki fungsi yang banyak. Selain menjadi tanaman obat, sering digunakan sebagai rempah bumbu dapur. Dengan rasanya yang tajam, makanan ini memiliki banyak manfaat dan khasiat. Cara menanam tanaman obat keluarga kunyit pun mudah.",
-    "manfaat": "<li>Meredakan peradangan</li><li>Meredakan nyeri perut</li><li>Bagus untuk wajah</li>",
+    "manfaat": "<li>Antiinflamasi: Kunyit mengandung kurkumin yang dapat mengurangi peradangan dalam tubuh</li><li>Antioksidan: Senyawa dalam kunyit membantu melawan radikal bebas dan meredakan stres oksidatif</li><li>Peningkatan pencernaan: Kunyit dapat merangsang produksi enzim pencernaan, mempromosikan kesehatan pencernaan</li><li>Penyokong sistem kekebalan: Kunyit dapat meningkatkan respons kekebalan tubuh terhadap infeksi</li><li>Penyokong sistem kekebalan: Kunyit dapat meningkatkan respons kekebalan tubuh terhadap infeksi.</li>",
     "kandunganKimia": "Kandungan kimia yang paling utama dalam kunyit adalah senyawa kukuminoid dan minyak atsiri. Senyawa kurkuminoid yang terkandung dalam kunyit sebesar 3 sampai 4%. Kandungan kimia lainnya yang terdapat dalam kunyit adalah garam-garam mineral."
   },
   {
@@ -18,7 +18,7 @@
     "slug": "kencur",
     "gambarUrl": "https://raw.githubusercontent.com/raisasalsabily/desa-sehat-data/main/assets/images/kencur.png",
     "deskripsi": "Kencur atau cikur adalah tanaman yang mempunyai akar batang yang tertanam di dalam tanah, biasa dipakai untuk bahan rempah-rempah dan ramuan obat  Bagian tanaman kencur yang sering digunakan adalah rimpang, akar dan daun.",
-    "manfaat": "<li>antijamur, antiinflamasi, dan antibakteri.</li> <li>pengobatan diare, migrain dan meningkatkan energi, dan mengatasi kelelahan</li>",
+    "manfaat": "<li>Penyembuhan Pencernaan: Kencur dapat membantu meredakan masalah pencernaan seperti mual, muntah, dan gangguan perut</li><li>Penyembuhan Batuk: Kencur dapat digunakan sebagai obat tradisional untuk meredakan batuk dan gangguan pernapasan</li><li>Penguat Kekebalan: Zat aktif dalam kencur dapat meningkatkan sistem kekebalan tubuh</li><li>Penghilang Nyeri: Kencur memiliki efek analgesik alami yang membantu mengurangi rasa nyeri</li><li>Penghilang Nyeri: Kencur memiliki efek analgesik alami yang membantu mengurangi rasa nyeri</li>",
     "kandunganKimia": "Kencur memiliki kandungan utama antara lain ethyl-p-methoxycinnamate (31.77%), methylcinnamate (23.23%), carvone (11.13%), eucalyptol (9.59%) dan pentadecane (6.41%). Ekstrak tanaman dilaporkan memiliki efek antinflamasi, analgetik, antidiare, antibakteri, sedatif, sitotoksik, insektisidal, antihelmint,dan antioksidan."
   },
 
@@ -31,7 +31,7 @@
     "gambarUrl": "https://raw.githubusercontent.com/raisasalsabily/desa-sehat-data/main/assets/images/temulawak.jpeg",
     "deskripsi": "Temulawak ialah tumbuhan obat yang tergolong dalam suku temu-temuan (Zingiberaceae)  Ia berasal dari Indonesia, khususnya Pulau Jawa, kemudian menyebar ke beberapa tempat di kawasan wilayah biogeografi Malesia. Saat ini, sebagian besar budidaya temu lawak berada di Indonesia, Malaysia, Thailand, dan Filipina  Tanaman ini selain di Asia Tenggara dapat ditemui pula di China, Indochina, Barbados, India, Jepang, Korea, Amerika Serikat, dan beberapa negara Eropa.",
     "manfaat": "<li>Antiinflamasi: Mengurangi peradangan dalam tubuh</li> <li>Pencernaan: Membantu pencernaan dan mengatasi gangguan seperti kembung, mual, dan diare</li><li>Detoksifikasi: Membantu proses detoksifikasi hati</li><li>Pengobatan Liver: Dukung kesehatan hati dan masalah hati</li><li>Pengatur Gula Darah: Menyokong regulasi gula darah</li>",
-    "kandunganKimia": "Kandungan utama rimpang temu lawak adalah protein, karbohidrat, dan minyak atsiri yang terdiri atas kamfer, glukosida, turmerol, dan kurkumin.[2] Kurkumin bermanfaat sebagai antiinflamasi (antiradang) dan anti hepototoksik (anti-keracunan empedu)."
+    "kandunganKimia": "Kandungan utama rimpang temu lawak adalah protein, karbohidrat, dan minyak atsiri yang terdiri atas kamfer, glukosida, turmerol, dan kurkumin. Kurkumin bermanfaat sebagai antiinflamasi (antiradang) dan anti hepototoksik (anti-keracunan empedu)."
   },
 
   {
@@ -42,7 +42,7 @@
     "slug": "lempuyang",
     "gambarUrl": "https://raw.githubusercontent.com/raisasalsabily/desa-sehat-data/main/assets/images/lempuyang.jpeg",
     "deskripsi": "Lempuyang atau lempuyang wangi (Zingiber zerumbet (L.) Roscoe ex Sm., sin. Z. aromaticum Valeton) adalah sejenis rempah-rempah yang berkhasiat obat. Rimpangnya dimanfaatkan sebagai campuran obat. Lempuyang atau puyang adalah salah satu bahan utama jamu yang cukup populer, jamu cabe puyang.",
-    "manfaat": "tes",
+    "manfaat": "<li>Pengobatan Pencernaan: Membantu meredakan gangguan pencernaan</li><li>Penghilang Kembung: Membantu mengurangi rasa kembung</li><li>Pengobatan Tradisional: Digunakan dalam pengobatan tradisional untuk berbagai masalah kesehatan</li><li>Antimikroba: Memiliki sifat antimikroba untuk melawan infeksi</li><li>Pengobatan Nyeri: Membantu meredakan nyeri dan ketidaknyamanan</li><li>Antiinflamasi: Mengurangi peradangan dalam tubuh</li>",
     "kandunganKimia": "Tanaman lempuyang, juga dikenal sebagai Zingiber zerumbet, mengandung berbagai senyawa kimia yang memberikan manfaat kesehatan. Beberapa kandungan utamanya adalah zerumbon, zingiberenol, zingiberol, kurkuminoid, flavonoid, dan asam asetat. Zerumbon memiliki sifat antiinflamasi, antivirus, dan antioksidan, sementara zingiberenol dan zingiberol memiliki efek antiinflamasi dan analgesik. Kurkuminoid dalam lempuyang juga memiliki sifat antiinflamasi, antioksidan, dan antikanker. "
   },
 
@@ -54,7 +54,7 @@
     "slug": "jahe",
     "gambarUrl": "https://raw.githubusercontent.com/raisasalsabily/desa-sehat-data/main/assets/images/jahe.jpeg",
     "deskripsi": "Jahe adalah tumbuhan yang rimpangnya sering digunakan sebagai rempah-rempah dan bahan baku pengobatan tradisional. Rimpangnya berbentuk jemari yang menggembung di ruas-ruas tengah. Rasa dominan pedas yang dirasakan dari jahe disebabkan oleh senyawa keton bernama zingeron.",
-    "manfaat": "tes",
+    "manfaat": "<li>Anti-inflamasi: Jahe memiliki sifat anti-inflamasi alami yang dapat membantu meredakan peradangan dalam tubuh</li>Pengobatan Pencernaan: Jahe dapat membantu meredakan gangguan pencernaan seperti mual, muntah, dan masalah perut lainnya<li>Peningkatan Kekebalan Tubuh: Kandungan antioksidan dalam jahe dapat membantu memperkuat sistem kekebalan tubuh</li><li>Pengurangan Rasa Nyeri: Jahe dapat membantu meredakan rasa nyeri, terutama pada nyeri sendi dan otot</li><li>Pengurangan Rasa Nyeri: Jahe dapat membantu meredakan rasa nyeri, terutama pada nyeri sendi dan otot</li><li>Pemeliharaan Berat Badan: Jahe dapat membantu meningkatkan metabolisme dan mengurangi nafsu makan, mendukung usaha penurunan berat badan</li>",
     "kandunganKimia": "Jahe mengandung senyawa kimia seperti gingerol, shogaol, zingiberen, dan zingiberol. Gingerol memiliki sifat antiinflamasi dan antioksidan, sementara shogaol memiliki efek antiinflamasi lebih kuat. Zingiberen dan zingiberol juga hadir dalam jahe dengan sifat antiinflamasi dan aroma khas jahe. Jahe digunakan untuk meredakan mual, meningkatkan pencernaan, meredakan nyeri, dan memiliki efek antiinflamasi"
   },
   {
@@ -65,7 +65,7 @@
     "slug": "sereh",
     "gambarUrl": "https://raw.githubusercontent.com/raisasalsabily/desa-sehat-data/main/assets/images/sereh.jpeg",
     "deskripsi": "Kencur atau cikur (Kaempferia galanga) adalah tanaman yang mempunyai akar batang yang tertanam di dalam tanah, biasa dipakai untuk bahan rempah-rempah dan ramuan obat  Bagian tanaman kencur yang sering digunakan adalah rimpang, akar dan daun.",
-    "manfaat": "tes",
+    "manfaat": "<li>Aroma Segar: Sereh menghasilkan aroma segar yang dapat mengharumkan ruangan atau masakan</li><li>Anti-Inflamasi: Kandungan senyawa dalam sereh dapat membantu meredakan peradangan</li><li>Pencernaan: Sereh dapat merangsang pencernaan dan mengurangi masalah pencernaan</li><li>Penurun Demam: Sifat antipiretik sereh membantu menurunkan demam</li><li>Relaksasi: Teh sereh dapat memberikan efek menenangkan dan mengurangi stres</li>",
     "kandunganKimia": "Kencur (K. galanga) ini memiliki kandungan utama antara lain ethyl-p-methoxycinnamate (31.77%), methylcinnamate (23.23%), carvone (11.13%), eucalyptol (9.59%) dan pentadecane (6.41%). Ekstrak tanaman dilaporkan memiliki efek antinflamasi, analgetik, antidiare, antibakteri, sedatif, sitotoksik, insektisidal, antihelmint,dan antioksidan."
   },
   {
@@ -76,7 +76,7 @@
     "slug": "lengkuas",
     "gambarUrl": "https://raw.githubusercontent.com/raisasalsabily/desa-sehat-data/main/assets/images/lengkuas.jpeg",
     "deskripsi": "Kencur atau cikur (Kaempferia galanga) adalah tanaman yang mempunyai akar batang yang tertanam di dalam tanah, biasa dipakai untuk bahan rempah-rempah dan ramuan obat  Bagian tanaman kencur yang sering digunakan adalah rimpang, akar dan daun.",
-    "manfaat": "tes",
+    "manfaat": "<li>Imunitas: Kandungan fitokimia dalam lengkuas dapat meningkatkan sistem kekebalan tubuh</li><li>Pengobatan Tradisional: Lengkuas sering digunakan dalam pengobatan tradisional untuk mengatasi masalah kesehatan seperti flu, batuk, dan sakit kepala</li><li>Pencernaan: Mengonsumsi lengkuas dapat merangsang pencernaan dan mengurangi masalah pencernaan seperti mual dan kembung</li><li>Anti-inflamasi: Lengkuas memiliki sifat anti-inflamasi yang membantu mengurangi peradangan dalam tubuh</li><li>Pencernaan: Mengonsumsi lengkuas dapat merangsang pencernaan dan mengurangi masalah pencernaan seperti mual dan kembung</li>",
     "kandunganKimia": "Kencur (K. galanga) ini memiliki kandungan utama antara lain ethyl-p-methoxycinnamate (31.77%), methylcinnamate (23.23%), carvone (11.13%), eucalyptol (9.59%) dan pentadecane (6.41%). Ekstrak tanaman dilaporkan memiliki efek antinflamasi, analgetik, antidiare, antibakteri, sedatif, sitotoksik, insektisidal, antihelmint,dan antioksidan."
   },
   {
@@ -87,7 +87,7 @@
     "slug": "adas",
     "gambarUrl": "https://raw.githubusercontent.com/raisasalsabily/desa-sehat-data/main/assets/images/adas.jpeg",
     "deskripsi": "Adas atau adas pedas (Foeniculum vulgare Miller, suku adas-adasan atau Apiaceae) telah lama dikenal sebagai tanaman bumbu atau tanaman obat. Minyak adas yang dikandung biji tanaman ini merupakan salah satu komponen minyak telon  Tanaman ini dapat hidup di dataran rendah hingga ketinggian 1.800 meter di atas permukaan laut, tetapi akan lebih baik jika tumbuh di dataran tinggi.",
-    "manfaat": "tes",
+    "manfaat": "<li>Relaksasi: Menenangkan saraf dan mengurangi stres serta kecemasan</li><li>Relaksasi: Menenangkan saraf dan mengurangi stres serta kecemasan</li><li>Kebugaran Mulut: Mengurangi bau mulut dan meredakan masalah gigi</li><li>Regulasi Siklus: Membantu mengatur siklus menstruasi pada wanita</li><li>Kesehatan Kulit: Dapat membantu meredakan masalah kulit seperti gatal dan ruam.</li>",
     "kandunganKimia": "Adas mengandung minyak asiri (Oleum Foenuculi) 1- 6%, 50 -60% anetol, lebih kurang 20% fenkon, pinen, limonen, dipenten, felandren, metilchavikol, anisaldehid, asam anisat, dan 12% minyak lemak. Kendungan anetol yang menyebabkan adas mengeluarkan aroma khas dan berkhasiat karminatif. Agarnya mengantung bergapten. Akar dan biji mengantung stigmasterin (serposterin). Daun adas menjadi sumber makanan larva beberapa spesies Lepidoptera, seperti ngengat Amphipyra tragopoginis dan Papilio zelicaon."
   },
   {
@@ -98,7 +98,7 @@
     "slug": "kumis-kucing",
     "gambarUrl": "https://raw.githubusercontent.com/raisasalsabily/desa-sehat-data/main/assets/images/kumis_kucing.jpeg",
     "deskripsi": "Kumis kucing termasuk tanaman dari famili Lamiaceae/Labiatae. Tanaman ini merupakan salah satu tanaman obat asli Indonesia yang mempunyai manfaat dan kegunaan yang cukup banyak dalam menanggulangi berbagai penyakit.",
-    "manfaat": "tes",
+    "manfaat": "<li>Diuretik alami: Membantu meningkatkan produksi urine dan membersihkan ginjal</li><li>Antiinflamasi: Dapat meredakan peradangan pada tubuh</li><li>Menenangkan: Bisa membantu meredakan stres dan kecemasan</li><li>Menenangkan: Bisa membantu meredakan stres dan kecemasan</li><li>Antimikroba: Dapat membantu melawan infeksi bakteri dan virus.</li>",
     "kandunganKimia": "Kumis kucing mengandung flavonoid seperti sinensetin dan eupatorin, rosmarinic acid, terpenoid, dan tanin. Senyawa-senyawa ini memiliki sifat antiinflamasi, diuretik, antioksidan, dan astringen. Kumis kucing digunakan dalam pengobatan tradisional untuk meredakan peradangan, meningkatkan fungsi ginjal, dan sebagai diuretik alami."
   },
 
@@ -110,7 +110,7 @@
     "slug": "mint",
     "gambarUrl": "https://raw.githubusercontent.com/raisasalsabily/desa-sehat-data/main/assets/images/mint.jpeg",
     "deskripsi": "Min atau pudina (bahasa Inggris: mint, dari bahasa Yunani: μίνθα, translit. míntha; nama ilmiah Mentha) adalah genus tumbuhan dalam famili Lamiaceae. Pembagian spesies dalam genus Mentha tidak memiliki batasan yang jelas. Menurut sumbernya, jumlah spesies dapat berkisar antara 13 hingga 24. Persilangan alami yang sering terjadi membuat persebaran beberapa spesies saling tumpang tindih. Banyak varietas hibrida dan kultivar dari tumbuhan ini yang diketahui",
-    "manfaat": "tes",
+    "manfaat": "<li>Segarkan Napas: Mengatasi bau mulut dan memberikan aroma segar pada napas</li><li>Penghilang Rasa Mual: Dapat membantu meredakan mual dan muntah</li><li>Minuman Rileksan: Dapat dijadikan teh atau minuman rileksan untuk meredakan stres dan ketegangan</li><li>Pengusir Serangga Alami: Aroma mint dapat mengusir serangga seperti nyamuk dan semut</li><li>Pengusir Serangga Alami: Aroma mint dapat mengusir serangga seperti nyamuk dan semut</li>",
     "kandunganKimia": "Tanaman mint (Mentha) mengandung senyawa utama seperti menthol, menton, mentofuran, dan flavonoid seperti mentos, luteolin, dan hesperidin. Menthol memberikan sensasi dingin dan memiliki sifat antispasmodik dan analgesik. Menton, mentofuran, dan flavonoid dalam mint memiliki sifat antiinflamasi, antioksidan, dan memberikan aroma khas mint. Mint digunakan untuk menyegarkan napas, meredakan nyeri dan kram otot, serta melawan peradangan."
   },
   {
@@ -121,7 +121,7 @@
     "slug": "kunyit-putih",
     "gambarUrl": "https://raw.githubusercontent.com/raisasalsabily/desa-sehat-data/main/assets/images/kunyit_putih.jpeg",
     "deskripsi": "Kunyit putih atau temu putih adalah salah satu spesies dari famili Zingiberaceae yang telah dikomersilkan penggunaan rhizomanya sebagai tanaman obat dan empon-empon. Temu putih disebut pula sebagai temu kuning.Produk alaminya banyak digunakan dalam industri parfum, pewarna untuk industri pangan, dan sebagai obat atau campuran obat. Khasiatnya bermacam-macam, tetapi biasanya terkait dengan pencernaan.",
-    "manfaat": "tes",
+    "manfaat": "<li>Antioksidan: Mengandung senyawa antioksidan yang melindungi sel-sel dari kerusakan akibat radikal bebas</li><li>Penguat Kekebalan: Dapat meningkatkan sistem kekebalan tubuh</li><li>Pemeliharaan Kulit: Berpotensi mendukung kesehatan kulit melalui sifat antioksidannya</li><li>Pengatur Gula Darah: Bisa membantu mengatur kadar gula darah dalam tubuh</li><li>Anti-inflamasi: Kunyit putih memiliki sifat anti-inflamasi yang membantu mengurangi peradangan dalam tubuh</li>",
     "kandunganKimia": "Rimpang mengandung zat warna kuning kurkumin (diarilheptanoid). Komponen minyak atsiri dari rimpangnya terdiri dari turunan Guaian (kurkumol, kurkumenol, Isokurkumenol, Prokurkumenol, Kurkurnadiol), turunan Germakran (Kurdion, Dehidrokurdion); seskuiterpena furanoid dengan kerangka eudesman (Kurkolon). Kerangka Germakran (Furanodienon, Isofuranodienon, Zederon, Furanodien, Furanogermenon); kerangka Eleman (Kurserenon identik dengan edoaron, Epikurserenon, Isofurano germakren); Asam-4-metoksi sinamat (bersifat fungistatik). Dari hasil penelitian lain ditemukan kurkumanolid A, kurleumanolid B, dan kurkumenon."
   }
 ]
